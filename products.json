@@ -1,0 +1,29 @@
+[
+	{
+		"code": "abc123",
+		"title": "leche",
+		"description": "producto prueba",
+		"price": 20,
+		"thumbnail": "sin imagen",
+		"stock": 25,
+		"id": 3
+	},
+	{
+		"code": "abc123",
+		"title": "leche",
+		"description": "producto prueba",
+		"price": 20,
+		"thumbnail": "sin imagen",
+		"stock": 25,
+		"id": 3
+	},
+	{
+		"code": "abc123",
+		"title": "leche",
+		"description": "producto prueba",
+		"price": 20,
+		"thumbnail": "sin imagen",
+		"stock": 25,
+		"id": 3
+	}
+]
