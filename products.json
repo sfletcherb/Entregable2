@@ -6,7 +6,7 @@
 		"price": 20,
 		"thumbnail": "sin imagen",
 		"stock": 25,
-		"id": 3
+		"id": 1
 	},
 	{
 		"code": "abc123",
@@ -15,7 +15,7 @@
 		"price": 20,
 		"thumbnail": "sin imagen",
 		"stock": 25,
-		"id": 3
+		"id": 2
 	},
 	{
 		"code": "abc123",
@@ -26,4 +26,5 @@
 		"stock": 25,
 		"id": 3
 	}
+	
 ]

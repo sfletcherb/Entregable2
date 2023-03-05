@@ -2,12 +2,27 @@
   "name": "entregable2",
   "version": "1.0.0",
   "description": "",
-  "main": "ProductManager.js",
+  "main": "index.js",
   "type": "module",
   "scripts": {
+    "start:dev": "nodemon ./src/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sfletcherb/Entregable2.git"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sfletcherb/Entregable2/issues"
+  },
+  "homepage": "https://github.com/sfletcherb/Entregable2#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
 }
